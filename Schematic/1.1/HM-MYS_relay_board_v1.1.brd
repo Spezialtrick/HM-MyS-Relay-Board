@@ -3219,7 +3219,7 @@ Includes Amendment 1, October 1996&lt;p&gt;
 <attribute name="VALUE" x="35.052" y="23.241" size="1.016" layer="27"/>
 </element>
 <element name="ANT1" library="Hexenmeister" package="LSP10" value="LSP10" x="37.338" y="11.43" locked="yes" smashed="yes" rot="R90">
-<attribute name="NAME" x="38.608" y="13.0175" size="0.8128" layer="21" font="vector" ratio="10" rot="R270"/>
+<attribute name="NAME" x="38.608" y="13.0175" size="0.8128" layer="25" font="vector" ratio="10" rot="R270"/>
 <attribute name="VALUE" x="40.767" y="9.144" size="1.016" layer="27" rot="R90"/>
 </element>
 <element name="PF1" library="polyswitch" package="F1206" value="PTC-F1206" x="37.719" y="5.715" smashed="yes" rot="MR90">
